@@ -1,0 +1,15 @@
+---
+title: "Primer reporte"
+description: ""
+date: "2026-08-22"
+---
+
+# Primer título
+
+La intención de esre reporte es ...
+
+## Sección importante
+
+Aquí se mostrará ....
+
+asdlqasdñ
